@@ -1,0 +1,7 @@
+﻿  xms2mzxml.c
+src\xms2mzxml.c(55): warning C4101: 'wModType': unreferenced local variable
+src\xms2mzxml.c(55): warning C4101: 'wModAddr': unreferenced local variable
+src\xms2mzxml.c(51): warning C4101: 'lInjTime': unreferenced local variable
+src\xms2mzxml.c(65): warning C4101: 'wSegmentNum': unreferenced local variable
+src\xms2mzxml.c(69): warning C4101: 'MySpec': unreferenced local variable
+  xms2mzxml.vcxproj -> C:\SYNC\MSW\MSWS\xms2mzxml\Release\xms2mzxml.exe

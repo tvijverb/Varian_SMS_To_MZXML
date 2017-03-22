@@ -1,0 +1,57 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, June 22, 2016 6:58:09 PM
+   Source : C:\Users\Thomas\Documents\Qt_xms2mzXML\
+     Dest : C:\Users\Thomas\Documents\Qt_xms2mzXML2\
+
+    Files : *.*
+	    
+Exc Files : *
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	  New Dir         23	C:\Users\Thomas\Documents\Qt_xms2mzXML\
+	  New Dir          0	C:\Users\Thomas\Documents\Qt_xms2mzXML\.vs\
+	  New Dir          0	C:\Users\Thomas\Documents\Qt_xms2mzXML\.vs\Qt_xms2mzXML\
+	  New Dir          1	C:\Users\Thomas\Documents\Qt_xms2mzXML\.vs\Qt_xms2mzXML\v14\
+	  New Dir          6	C:\Users\Thomas\Documents\Qt_xms2mzXML\debug\
+	  New Dir         12	C:\Users\Thomas\Documents\Qt_xms2mzXML\debug\Qt_xms2mzXML.tlog\
+	  New Dir          8	C:\Users\Thomas\Documents\Qt_xms2mzXML\release\
+	  New Dir          1	C:\Users\Thomas\Documents\Qt_xms2mzXML\Win32\
+	  New Dir         14	C:\Users\Thomas\Documents\Qt_xms2mzXML\Win32\Debug\
+	  New Dir          9	C:\Users\Thomas\Documents\Qt_xms2mzXML\Win32\Debug\platforms\
+	  New Dir          7	C:\Users\Thomas\Documents\Qt_xms2mzXML\Win32\Debug\Qt_xms2mzXML.tlog\
+	  New Dir         27	C:\Users\Thomas\Documents\Qt_xms2mzXML\Win32\Debug\xms2mzXML\
+	  New Dir          7	C:\Users\Thomas\Documents\Qt_xms2mzXML\Win32\Debug\xms2mzXML\xms2mzxml.tlog\
+	  New Dir         12	C:\Users\Thomas\Documents\Qt_xms2mzXML\Win32\Release\
+	  New Dir          9	C:\Users\Thomas\Documents\Qt_xms2mzXML\Win32\Release\platforms\
+	  New Dir          7	C:\Users\Thomas\Documents\Qt_xms2mzXML\Win32\Release\Qt_xms2mzXML.tlog\
+	  New Dir         27	C:\Users\Thomas\Documents\Qt_xms2mzXML\Win32\Release\xms2mzXML\
+	  New Dir          7	C:\Users\Thomas\Documents\Qt_xms2mzXML\Win32\Release\xms2mzXML\xms2mzxml.tlog\
+	  New Dir          4	C:\Users\Thomas\Documents\Qt_xms2mzXML\x64\
+	  New Dir          8	C:\Users\Thomas\Documents\Qt_xms2mzXML\x64\Debug\
+	  New Dir         10	C:\Users\Thomas\Documents\Qt_xms2mzXML\x64\Debug\Qt_xms2mzXML.tlog\
+	  New Dir         27	C:\Users\Thomas\Documents\Qt_xms2mzXML\x64\Debug\xms2mzXML\
+	  New Dir          7	C:\Users\Thomas\Documents\Qt_xms2mzXML\x64\Debug\xms2mzXML\xms2mzxml.tlog\
+	  New Dir         12	C:\Users\Thomas\Documents\Qt_xms2mzXML\x64\Release\
+	  New Dir          9	C:\Users\Thomas\Documents\Qt_xms2mzXML\x64\Release\platforms\
+	  New Dir         10	C:\Users\Thomas\Documents\Qt_xms2mzXML\x64\Release\Qt_xms2mzXML.tlog\
+	  New Dir         27	C:\Users\Thomas\Documents\Qt_xms2mzXML\x64\Release\xms2mzXML\
+	  New Dir          7	C:\Users\Thomas\Documents\Qt_xms2mzXML\x64\Release\xms2mzXML\xms2mzxml.tlog\
+	  New Dir         27	C:\Users\Thomas\Documents\Qt_xms2mzXML\xms2mzXML\
+	  New Dir          7	C:\Users\Thomas\Documents\Qt_xms2mzXML\xms2mzXML\xms2mzxml.tlog\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        30        30         0         0         0         0
+   Files :       332         0       332         0         0         0
+   Bytes :  397.12 m         0  397.12 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Wednesday, June 22, 2016 6:58:10 PM
+
