@@ -1,0 +1,7 @@
+﻿  moc_mainwindow.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\build-Qt_xms2mzXML-Desktop_Qt_5_7_0_MSVC2015_32bit-Release\release\moc_mainwindow.cpp': No such file or directory
+  main.cpp
+c:\users\thomas\documents\qtprojects\qt_xms2mzxml\mainwindow.h(7): fatal error C1083: Cannot open include file: 'QMainWindow': No such file or directory
+  mainwindow.cpp
+c:\users\thomas\documents\qtprojects\qt_xms2mzxml\mainwindow.h(7): fatal error C1083: Cannot open include file: 'QMainWindow': No such file or directory
+  Generating Code...

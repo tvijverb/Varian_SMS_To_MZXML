@@ -1,7 +1,35 @@
-﻿  xms2mzxml.c
+﻿  getopt.c
+  m_convertToURI.c
+  m_get_ms_logfile.c
+  m_list_acquisition_info.c
+src\m_list_acquisition_info.c(54): warning C4475: 'printf' : length modifier 'L' cannot be used with type field character 'd' in format specifier
+  m_list_ms_file_sections.c
+  m_list_ms_logfile.c
+  m_list_scan_info.c
+src\m_list_scan_info.c(29): warning C4475: 'printf' : length modifier 'L' cannot be used with type field character 'd' in format specifier
+  m_list_segment_info_ex.c
+src\m_list_segment_info_ex.c(36): warning C4475: 'printf' : length modifier 'L' cannot be used with type field character 'd' in format specifier
+  m_list_spectrum.c
+  m_update_segment_info_ex.c
+  m_writeXmlHeader.c
+  m_writeXmlIndex.c
+src\m_writeXmlIndex.c(46): warning C4477: 'fprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'fpos_t'
+  src\m_writeXmlIndex.c(46): note: consider using '%lld' in the format string
+  src\m_writeXmlIndex.c(46): note: consider using '%I64d' in the format string
+src\m_writeXmlIndex.c(49): warning C4477: 'fprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'fpos_t'
+  src\m_writeXmlIndex.c(49): note: consider using '%lld' in the format string
+  src\m_writeXmlIndex.c(49): note: consider using '%I64d' in the format string
+  m_writeXmlScan.c
+src\m_writeXmlScan.c(77): warning C4477: 'fprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type '__int64'
+  src\m_writeXmlScan.c(77): note: consider using '%lld' in the format string
+  src\m_writeXmlScan.c(77): note: consider using '%I64d' in the format string
+  m_writeXmlSha1.c
+  xms2mzxml.c
 src\xms2mzxml.c(55): warning C4101: 'wModType': unreferenced local variable
 src\xms2mzxml.c(55): warning C4101: 'wModAddr': unreferenced local variable
 src\xms2mzxml.c(51): warning C4101: 'lInjTime': unreferenced local variable
 src\xms2mzxml.c(65): warning C4101: 'wSegmentNum': unreferenced local variable
 src\xms2mzxml.c(69): warning C4101: 'MySpec': unreferenced local variable
-  xms2mzxml.vcxproj -> C:\SYNC\MSW\MSWS\xms2mzxml\Release\xms2mzxml.exe
+  base64.c
+  sha1.c
+  xms2mzxml.vcxproj -> C:\SYNC\MSW\MSWS\xms2mzxml\Win32\Release\xms2mzxml.exe
